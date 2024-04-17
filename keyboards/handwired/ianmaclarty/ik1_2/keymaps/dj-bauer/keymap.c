@@ -3,7 +3,7 @@
 enum layer {BASE_L, NUM_L, NAV_L, FN_L};
 
 #define _TABNUM LT(NUM_L, KC_TAB)
-#define _SNAV LT(NAV_L, KC_BSPC)
+#define _SNAV LT(NAV_L, KC_SPC)
 #define _FN MO(FN_L)
 
 /*
